@@ -236,7 +236,7 @@ def main():
 
     cust1 = Customer("Jack", 5)
     cust2 = Customer("Jill", 10)
-    cust3 = Customer("Jake", 15)
+    cust3 = Customer("Bob", 15)
 
     s1 = Stall("NoodleDepot", menu1, 8)
     s2 = Stall("BurgerTown", menu2, 5)
